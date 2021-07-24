@@ -1,4 +1,4 @@
-#Hello world simple java project#
+//Hello world simple java project
 
 class Simple{  
     public static void main(String args[]){  
