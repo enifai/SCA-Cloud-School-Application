@@ -15,7 +15,7 @@ For deploy
 
 My JENKINS Credentials 
 
-Passeord: Faith@1!
+Password: Faith@1!
 username: faitheni
 
 Thank you.
